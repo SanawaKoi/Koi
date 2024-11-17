@@ -1,48 +1,23 @@
-# Koi
-# 🌸 Koi's World 🌸  
-Welcome to my GitHub profile! Here, you'll find my journey through code, creativity, and constant learning. Let's explore together! 💻✨
+# 🌸 벚꽃처럼 피어나는 개발자, 안녕하세요! 🌸  
+저는 봄바람에 흩날리는 벚꽃처럼, 작은 꿈을 키워가고 있는 개발자입니다. 🌷  
+코드를 짤 때마다 마치 꽃잎이 춤추는 것처럼 설레는 마음으로 배우고 있어요. 💖  
 
 ---
 
-## 💫 About Me  
-🌟 **Passionate developer** who loves creating meaningful projects.  
-🌐 **Focus**: Web Development | Game Design | Creative Coding  
-🎨 **Inspiration**: Anime, Nature, and Art  
+## 🌸 제 이야기, 들어보실래요? 🌸  
+- 🌸 **배우고 있는 것들**: Python, JavaScript, 그리고 웹 개발 ✨  
+- 💖 **제가 좋아하는 것**: 따뜻한 커피 한 잔, 벚꽃 구경, 그리고 코드 속 숨은 보물 찾기!  
+- 🌟 **목표**: 언젠가 모든 사람의 마음을 따뜻하게 하는 프로젝트를 만들고 싶어요. 🌼  
 
 ---
 
-## 🌟 My Philosophy  
-"Code with passion, create with love."  
-Every line of code is a step toward building something beautiful. 🚀  
+## 🌷 기술 스택 (꽃잎처럼 한 걸음씩!)  
+- **언어**: 🐍 Python | 🖍️ HTML/CSS | 🌐 JavaScript  
+- **도구**: 🖥️ Visual Studio Code | 🐾 Git & GitHub  
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages**: Python, JavaScript, C++  
-- **Frameworks**: React, Flask, Node.js  
-- **Tools**: Docker, Git, VSCode  
-- **Interests**: AI, Game Development, UI/UX  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Current Goals  
-🔭 Working on **KoiProject**, a game inspired by Japanese culture.  
-📚 Learning **TypeScript** to enhance web development.  
-
----
-
-## 🌐 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Me-orange?style=flat-square)](https://your-portfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-lightblue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)  
-
----
-
-## 🎨 Fun Fact  
-I find inspiration in 🌸 sakura trees and starry skies 🌌. My favorite coding time? Late nights with lo-fi beats. 🎧💻  
+## 🌸 함께 피어날래요? 🌸  
+꽃잎 하나하나가 모여 아름다운 봄을 이루듯,  
+저도 여러분과 함께 성장하며 더 큰 세상을 만들어 가고 싶어요. 💖  
+벚꽃 향기처럼 따뜻한 하루 보내세요! 🌼  
